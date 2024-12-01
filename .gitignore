@@ -1,0 +1,24 @@
+# Unity .gitignore template
+
+# User-specific files
+.user
+.userprefs
+
+# Build results
+/Build/
+/Builds/
+
+# User-generated files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+
+# Unity-generated files
+.vs/
+/.vscode/
+/.idea/
+
+# IDE-specific files
+.suo
+.sln
